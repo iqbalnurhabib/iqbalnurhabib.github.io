@@ -523,8 +523,8 @@ html a.social-link:hover:before {
 .link-1.yellow:after {
 	background: #ffcc2f;
 	}
-/* pink links */
-.link-1.pink:after {
+/* grey links */
+.link-1.grey:after {
 	background: #f94877;
 	}
 /* purple links */
@@ -555,8 +555,8 @@ html a.social-link:hover:before {
 .link-1.peach:after {
 	background: #FEA680;
 	}
-/* hot-pink links */
-.link-1.hot-pink:after {
+/* hot-grey links */
+.link-1.hot-grey:after {
 	background: #FE65B7;
 	}
 /* coral links */
@@ -613,9 +613,9 @@ html a.social-link:hover:before {
 .link-2.yellow:after {
 	background: #ffcc2f;
 	}
-/* pink links */
-.link-2.pink:before,
-.link-2.pink:after {
+/* grey links */
+.link-2.grey:before,
+.link-2.grey:after {
 	background: #f94877;
 	}
 /* purple links */
@@ -653,9 +653,9 @@ html a.social-link:hover:before {
 .link-2.peach:after {
 	background: #FEA680;
 	}
-/* hot-pink links */
-.link-2.hot-pink:before,
-.link-2.hot-pink:after {
+/* hot-grey links */
+.link-2.hot-grey:before,
+.link-2.hot-grey:after {
 	background: #FE65B7;
 	}
 /* coral links */
@@ -743,11 +743,11 @@ html a.social-link:hover:before {
 .button.yellow:after {
 	background: #ffcc2f;
 	}
-/* pink buttons */
-.button.pink {
+/* grey buttons */
+.button.grey {
 	border-color: #f94877; color: #f94877;
 	}
-.button.pink:after {
+.button.grey:after {
 	background: #f94877;
 	}
 /* purple buttons */
@@ -799,11 +799,11 @@ html a.social-link:hover:before {
 .button.peach:after {
 	background: #FEA680;
 	}
-/* hot-pink buttons */
-.button.hot-pink {
+/* hot-grey buttons */
+.button.hot-grey {
 	border-color: #FE65B7; color: #FE65B7;
 	}
-.button.hot-pink:after {
+.button.hot-grey:after {
 	background: #FE65B7;
 	}
 /* coral buttons */
@@ -856,8 +856,8 @@ html a.social-link:hover:before {
 .highlight.yellow {
 	background: #ffcc2f;
 	}
-/* pink highlights */
-.highlight.pink {
+/* grey highlights */
+.highlight.grey {
 	background: #f94877;
 	}
 /* purple highlights */
@@ -888,8 +888,8 @@ html a.social-link:hover:before {
 .highlight.peach {
 	background: #FEA680;
 	}
-/* hot-pink highlights */
-.highlight.hot-pink {
+/* hot-grey highlights */
+.highlight.hot-grey {
 	background: #FE65B7;
 	}
 /* coral highlights */
@@ -919,8 +919,8 @@ html a.social-link:hover:before {
 .text.yellow {
 	color: #ffcc2f;
 	}
-/* pink text */
-.text.pink {
+/* grey text */
+.text.grey {
 	color: #f94877;
 	}
 /* purple text */
@@ -951,8 +951,8 @@ html a.social-link:hover:before {
 .text.peach {
 	color: #FEA680;
 	}
-/* hot-pink text */
-.text.hot-pink {
+/* hot-grey text */
+.text.hot-grey {
 	color: #FE65B7;
 	}
 /* coral text */
